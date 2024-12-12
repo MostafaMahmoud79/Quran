@@ -1,0 +1,23 @@
+# Quran Website
+
+This is a religious website built using **HTML**, **Tailwind CSS**, and **React**. It provides access to the complete Quran, daily dhikr and supplications, and also includes an electronic tasbih for easy counting of dhikr.
+
+## Features
+
+- **Complete Quran**: Access the full Quran with recitations by popular Qaris.
+- **Daily Dhikr and Supplications**: A collection of important Islamic prayers and supplications.
+- **Electronic Tasbih**: An interactive tasbih for easy and quick dhikr counting.
+- **Audio Recitations**: Listen to Quran recitations by famous Qaris.
+- **Responsive Design**: The site is built with **Tailwind CSS**, ensuring a clean, responsive, and user-friendly interface.
+
+## Website Goals
+
+1. **Easy Access to Quran and Dhikr**: This website aims to make the Quran, daily dhikr, and the electronic tasbih easily accessible in one place, removing the need to navigate between different apps or pages.
+2. **Quran Recitations by Popular Qaris**: The site features audio recitations by well-known Qaris to enhance the user's experience.
+3. **User-Friendly Experience**: Thanks to **Tailwind CSS**, the website provides a smooth, responsive design across all devices.
+
+## Tech Stack
+
+- **HTML**
+- **Tailwind CSS**
+- **React**
